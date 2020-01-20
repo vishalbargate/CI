@@ -10,5 +10,15 @@ class CI{
         System.out.println("new project started");  
         System.out.println("new project started");  
         System.out.println("new project started");  
+        System.out.println("new project started");  
+       System.out.println("new project started");  
+        System.out.println("new project started");  
+        System.out.println("new project started");  
+        System.out.println("new project started");  
+        System.out.println("new project started");  
+        System.out.println("new project started");  
+        System.out.println("new project started");  
+        System.out.println("new project started");  
+        System.out.println("new project started");  
     }  
 }  
